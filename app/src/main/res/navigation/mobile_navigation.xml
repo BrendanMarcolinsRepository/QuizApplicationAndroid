@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.assignment2.ui.home.HomePageModel"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_numeracy"
+        android:name="com.example.assignment2.ui.Numeracy.NumeracyQuiz"
+        android:label="@string/menu_numeracy"
+        tools:layout="@layout/fragment_numeracy" />
+
+    <fragment
+        android:id="@+id/nav_literature"
+        android:name="com.example.assignment2.ui.Literature.literatureQuiz"
+        android:label="@string/menu_literature"
+        tools:layout="@layout/fragment_literature" />
+
+    <fragment
+        android:id="@+id/nav_criticalthinking"
+        android:name="com.example.assignment2.ui.criticalthinking.CriticalThinkingFragment"
+        android:label="@string/menu_criticalthinking"
+        tools:layout="@layout/fragment_criticalthinking" />
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.example.assignment2.ui.PackageSettings.Settings"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_settings" />
+</navigation>

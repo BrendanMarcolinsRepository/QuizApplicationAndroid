@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/typeOfQuiz3"
+        android:layout_width="214dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="36dp"
+        android:text="TextView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/questionNum"
+        android:layout_width="330dp"
+        android:layout_height="138dp"
+        android:layout_marginTop="76dp"
+        android:text="TextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/typeOfQuiz3" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/answerNum"
+        android:layout_width="120dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="68dp"
+        android:layout_marginEnd="52dp"
+        android:layout_marginRight="52dp"
+        android:text="@string/answer"
+        android:background="@drawable/custom_button"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toStartOf="@+id/nextNum"
+        app:layout_constraintTop_toBottomOf="@+id/numAnswer" />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/nextNum"
+        android:layout_width="120dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="68dp"
+        android:layout_marginEnd="68dp"
+        android:layout_marginRight="68dp"
+        android:text="@string/next"
+        android:background="@drawable/custom_button"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/numAnswer" />
+
+    <ImageView
+        android:id="@+id/imageanswerNum1"
+        android:layout_width="50dp"
+        android:layout_height="36dp"
+        android:layout_marginTop="56dp"
+        android:layout_marginEnd="52dp"
+
+        android:layout_marginRight="52dp"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/questionNum"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <EditText
+        android:id="@+id/numAnswer"
+        android:layout_width="228dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="24dp"
+        android:ems="10"
+        android:inputType="numberDecimal"
+        app:layout_constraintEnd_toStartOf="@+id/imageanswerNum1"
+        app:layout_constraintHorizontal_bias="0.964"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/questionNum" />
+
+    <TextView
+        android:id="@+id/questionNumFade"
+        android:layout_width="142dp"
+        android:layout_height="37dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginRight="4dp"
+        android:text="TextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.375"
+        app:layout_constraintStart_toEndOf="@+id/typeOfQuiz3"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

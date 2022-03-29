@@ -1,0 +1,16 @@
+1,Who Wrote No Man for Old Country?,Cormac McCarthy,Stephen King,Ted Chiang,Philip K. Dick,Ursula K. Le Guin
+2,Who Wrote Do android dream of electric sheep,Philip K. Dick,Ursula K. Le Gui,Stephen King,Ted Chiang,William Gibson
+3,Which book inspired the famous trilogy The Matrix,Neruomancer,Do android dream of electric sheep,I am Legend,Sea of Rust,Azazel
+4,Which book inspired the famous series Blade Runner,Do android dream of electric sheep,Sea of Rust,I am Legend,Dune,Azazel
+5,Who wrote Dune,Frank Herbert,Ursula K. Le Guin,Ted Chiang,Richard Matheson,Ray Bradbury
+6,Who wrote alice in wonderland,Lewis Carroll,C.S.Lewis,J.K.Rolling,J.R.R.Tolkien,Roald Dalh
+7,Which graphic novel inspired the watchmen movie,Alan Moore,Art Spiegelman,Marjane Satrapi,Mark Waid,Kurt Busiek
+8,which graphic novel inspired v for vendetta movie,Alan Moore,Mark Waid,Art Spiegelman,Marjane Satrapi,Kurt Busiek
+9,who wrote Narnia Chronicles,C.S.Lewis,J.K.Rolling,J.R.R.Tolkien,Roald Dalh,Lewis Carroll
+10,who wrote The Lord of The Rings,J.R.R.Tolkien,Roald Dalh,Lewis Carroll,C.S.Lewis,J.K.Rolling
+11,who wrote The Hobbit,J.R.R.Tolkien,Roald Dalh,Lewis Carroll,C.S.Lewis,J.K.Rolling
+12,which author wrote to kill a mockingbird,Harper Lee,Stephen King,Ted Chiang,J.R.R.Tolkien,Roald Dalh,Lewis Carroll 
+13,which author wrote Romeo And Juilet,William Shakespeare,F. Scott Fitzgerald,Lewis Carroll,C.S.Lewis,Harper Lee
+14,which author wrote the series Harry Potter,J.K.Rolling,J.R.R.Tolkien,Roald Dalh,Lewis Carroll,C.S.Lewis
+15,which authors book was based on the movie IT,Stephen King,Ted Chiang,J.R.R.Tolkien,Roald Dalh,Lewis Carroll
+

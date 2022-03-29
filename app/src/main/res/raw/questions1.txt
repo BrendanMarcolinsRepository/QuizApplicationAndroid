@@ -1,0 +1,15 @@
+1,How many apples do I have left if I had 5 and I took away three?,5,10,15,20,60
+2,Where do you bury the survivors if a plane crashes on the border of Germany and Poland?,You Dont Bury Survivors,Cemetary,On Mars,You leave them,in the sea
+3,How many birthdays does the average man have?,34, 1, 50, 40, 100
+4,Use the clues to solve the puzzle: A duck a goose a goat and a horse all entered the barn at different times one-day last week. A mammal entered the barn first. The duck entered before the goose. The goose entered ahead of the horse. Who Entered first?,Goat,duck,goose,horse,none enter
+5,Which side of a dog has the most hair?, Outside,Inside,Rightside,Leftside,no side
+6,What starts with an E ends with an E and usually contains only one letter?,Envelope, Eagle,Engine,Eye,Erase
+7,What belongs to you but other people use it more than you?,Your name,your house,your time,your money,your car
+8,In which sport do winners move backwards and losers move forwards?,Tug of war,swimming,running,long jump,weightlifting
+9,A man was born in 1955.He's alive and well today at age 33.How is this possible?,Born in room 1955,is immortal,nurse got the wrong date,child was never born,was born in 1986. 
+10,In which sport are the shoes made entirely of metal?,Horse racing,running,swimming,football,soccer
+11,If you overtake the last person what position are you in?,Cant over take last position,first place,second last,third last,second
+12,Take 1000 and add 40 to it.Now add another 1000.Now add 30.Add another 1000.Now add 20.Now add another 1000.Now add 10.What is the total?,4100,5000,4500,3000,5500
+13,Before Mount Everest was discoverd which was the highest mountain?,Mount Everest,Makalu,Manaslu,Kamet,K2
+14,What is a big as you but yet weighs nothing?,your shadow,a feather,An elephant,yourself on a diet,a whale
+15,Paul is six feet works at butcher wears size 9 shoes what does he weigh?,meat,himself,customers,living animals,his work collegue
